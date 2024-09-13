@@ -1,3 +1,3 @@
 function register_user() {
-    alert("Register button clicked")
+    window.location = '/register_user'
 }
